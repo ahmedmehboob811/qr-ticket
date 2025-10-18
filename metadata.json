@@ -1,0 +1,7 @@
+{
+  "name": "EventHive - QR Ticketing System",
+  "description": "A modern event management and ticketing system where users can browse events, book tickets with unique QR codes, and organizers can manage attendees and validate tickets by scanning QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
